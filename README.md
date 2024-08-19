@@ -1,7 +1,3 @@
-Here's a draft of your `README.md` file for the `egik-atis-uygulamasi` project:
-
----
-
 # Egik Atis Uygulamasi
 
 This project is a C# Windows Forms application named **Egik Atis Uygulamasi**. It was developed as part of a university project at Balikesir University. The application simulates the physics of projectile motion, allowing users to input the initial velocity and angle of a projectile to calculate its flight duration, maximum height, and range.
